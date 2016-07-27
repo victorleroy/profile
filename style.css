@@ -1,0 +1,138 @@
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+h1 {
+    color: #008080;
+    font-size: 22px;
+}
+
+h1, h2, h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    color: ##272822;
+    font-size: 18px;
+}
+
+p {
+    text-align: justify;
+}
+
+div {
+    display: block;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+.container {
+  margin-left: 300px;
+}
+
+#img-profile {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #cccccc;
+}
+.img-circle {
+    border-radius: 50%;
+}
+
+#movies {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+#books td {
+    padding: 10px;
+}
+
+#description {
+  margin-left: 10px;
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+.link:hover {
+    color: #DD5555;
+    text-decoration: underline;
+}
+
+.link {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.btn-blue {
+    background-color: #008080;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.list-inline {
+    padding-left: 0;
+}
+
+.list-inline > li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+
+.list-inline li i {
+    font-size: 25px;
+}
+
+.btn-blue:hover {
+    background-color: #7d7d7d;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    width: 600px;
+    margin: 25px auto;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #008080;
+}
+
+#page-content {
+  margin-left: 300px;
+}
+
+.list-sidebar {
+  list-style: none;
+  margin: 20px;
+}
+
+.list-sidebar li i {
+    font-size: 50px;
+    color: white;
+    padding: 60px;
+    margin-top: 13px;
+}
